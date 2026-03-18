@@ -1,0 +1,13 @@
+{
+  "name": "torrent-indexer",
+  "version": "1.0.0",
+  "description": "Indexador de torrents para Stremio",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "stremio-addon-sdk": "latest",
+    "axios": "latest"
+  }
+}
